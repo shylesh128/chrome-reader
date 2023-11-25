@@ -1,0 +1,16 @@
+/* style.css */
+
+body {
+  width: 300px;
+  height: 150px;
+  padding: 10px;
+  text-align: center;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+/* Add more styles as needed */
